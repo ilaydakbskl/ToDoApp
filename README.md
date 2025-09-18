@@ -5,7 +5,7 @@ SwiftUI ve Firebase kullanılarak geliştirilmiş modern bir todo uygulaması. M
 ## 📱 Özellikler
 
 - ✅ Kullanıcı kayıt ve giriş sistemi (Firebase Auth)
-- 📝 Todo ekleme, düzenleme ve silme
+- 📝 Todo ekleme ve silme
 - ✔️ Görev tamamlama/check işaretleme
 - 👀 Detaylı görev görüntüleme
 - 🔄 Gerçek zamanlı veri senkronizasyonu
